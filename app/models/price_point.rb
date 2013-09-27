@@ -1,10 +1,9 @@
 class PricePoint < ActiveRecord::Base
   belongs_to :stock, inverse_of: :price_points
 
-  scope :most_recent, -> {
-    order('created_at desc').group(:stock_id)
-  }
-
+  def self.most_recent
+    where(id: select('MAX(id) as id').group(:stock_id).map(&:id))
+  end
 
   def self.import(stocks)
     previous_prices = most_recent.includes(:stock).index_by{ |pp| pp.stock.company_code }
