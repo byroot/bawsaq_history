@@ -1,0 +1,240 @@
+AMU:
+  name: SM_PRICE_AMU
+  company_name: Ammu-Nation
+  company_code: AMU
+  summary: Manufacturer of weapons - and reasons to own weapons – Ammu-Nation has
+    zealously defended arms profiteering for over 50 years.
+BDG:
+  name: SM_PRICE_BDG
+  company_name: Badger
+  company_code: BDG
+  summary: A first-world global communications company with third-world cell phone
+    coverage.
+BET:
+  name: SM_PRICE_MOL
+  company_name: Betta Pharmaceuticals
+  company_code: BET
+  summary: Pioneers of medical breakthroughs like Mollis and the Alco Patch, Betta
+    Pharmaceuticals has tried to keep the American people thin, happy and hard for
+    over 30 years.
+BFA:
+  name: SM_PRICE_BFA
+  company_name: BF
+  company_code: BFA
+  summary: German car manufacturer that, aside from a serious blip between 1939 and
+    1945, has served mankind well.
+BIN:
+  name: SM_PRICE_BIN
+  company_name: Binco
+  company_code: BIN
+  summary: Low-quality clothing at low prices.  Where fashion’s rejects come to die.
+BTR:
+  name: SM_PRICE_BTR
+  company_name: BitterSweet
+  company_code: BTR
+  summary: The original handheld weapon of mass procrastination.
+BLE:
+  name: SM_PRICE_BLE
+  company_name: Bleeter
+  company_code: BLE
+  summary: Bleeter is a social networking and microblogging service that found a way
+    to turn the entire world into illiterate journalists reporting on the breaking
+    news of their vapid existence.  They, like many popular internet services, have
+    yet to turn any kind of a profit.
+BRU:
+  name: SM_PRICE_BRU
+  company_name: Brute
+  company_code: BRU
+  summary: Manufacturer of over-sized, eco-unfriendly vehicles designed for heavy-duty
+    commercial use but mostly driven by soccer moms and drug dealers in busy city
+    centers.
+CNT:
+  name: SM_PRICE_CNT
+  company_name: CNT
+  company_code: CNT
+  summary: International television network, responsible for groundbreaking programming
+    that leads America straight off a cliff.
+CRE:
+  name: SM_PRICE_CRE
+  company_name: Crevis
+  company_code: CRE
+  summary: Outdoor sportswear marketed to the kind of urban consumer who rarely goes
+    outdoors or does any sport.
+DGP:
+  name: SM_PRICE_DGP
+  company_name: Daily Globe
+  company_code: DGP
+  summary: Sensational and innovative fiction delivered in the form of a newspaper.
+WAP:
+  name: SM_PRICE_WAP
+  company_name: Dept. Water and Power
+  company_code: WAP
+  summary: Suppliers of the traditional energy sources that keep San Andreas green
+    agriculturally but not environmentally.
+EYE:
+  name: SM_PRICE_EYE
+  company_name: Eyefind
+  company_code: EYE
+  summary: The search engine that knows everything about you, mostly because it drives
+    around in cars collecting all your private data.
+FAC:
+  name: SM_PRICE_FAC
+  company_name: Facade
+  company_code: FAC
+  summary: Operating system dictators, software monopolists and licensing racketeers.
+FRT:
+  name: SM_PRICE_FRT
+  company_name: Fruit
+  company_code: FRT
+  summary: Purveyor of white shiny internet-surfing devices.  The world’s largest
+    religion.
+GOT:
+  name: SM_PRICE_GOT
+  company_name: Grain Of Truth
+  company_code: GOT
+  summary: Ludicrously over-priced gourmet organic food marketed under the guise of
+    social and environmental responsibility.
+HAL:
+  name: SM_PRICE_HAL
+  company_name: Hawk And Little
+  company_code: HAL
+  summary: 'The largest firearms manufacturer in the United States, protecting Americans
+    from each other since 1850. '
+HVY:
+  name: SM_PRICE_HVY
+  company_name: HVY Industries
+  company_code: HVY
+  summary: Manufacturer of vehicles, engines and machinery, once focused on the American
+    market, but now sold in countries that still actually build and farm things.
+LSC:
+  name: SM_PRICE_LSC
+  company_name: Los Santos Customs
+  company_code: LSC
+  summary: National leader in car customization, not to be confused with the lovely
+    people who greet you with rubber gloves on arrival at Los Santos International
+    Airport.
+LST:
+  name: SM_PRICE_LST
+  company_name: LST
+  company_code: LST
+  summary: Los Santos Transit owns and operates the public transit system that none
+    of its city’s inhabitants actually use.
+LTD:
+  name: SM_PRICE_LTD
+  company_name: LTD Oil
+  company_code: LTD
+  summary: A one-stop shop for gasoline, candy, potato chips, lottery tickets and
+    soda.  The American dream.
+MAI:
+  name: SM_PRICE_MAI
+  company_name: Maibatsu
+  company_code: MAI
+  summary: A Japanese multinational conglomerate that manufactures cars, electronics,
+    cruise missiles and just about every other product on the face of the planet.  The
+    definition of over-diversified.
+PIS:
+  name: SM_PRICE_PIS
+  company_name: Pißwasser
+  company_code: PIS
+  summary: Cheap 11% ABV fighting lager brewed in Germany for export only from rice,
+    barley, hops and the fresh urine of Bavarian virgins.
+PON:
+  name: SM_PRICE_PON
+  company_name: 'Ponsonbys '
+  company_code: PON
+  summary: A chain of luxury clothing and accessories stores catering to the kind
+    of elite consumer for whom price, humility and world poverty are no object.
+PMP:
+  name: SM_PRICE_PMP
+  company_name: Pump n Run
+  company_code: PMP
+  summary: Nationwide franchise of gymnasiums marketed primarily to bodybuilders,
+    people wanting to have sex with bodybuilders, and bodybuilders wanting to have
+    sex with each other.
+RON:
+  name: SM_PRICE_RON
+  company_name: Ron Oil
+  company_code: RON
+  summary: A multinational oil company, and the people to thank for the scorching
+    hot summers we have everywhere now.
+SHT:
+  name: SM_PRICE_SHT
+  company_name: Schyster
+  company_code: SHT
+  summary: Manufacturer of unreliable mid-range cars that lose half their value in
+    the first year through depreciation and the other half through repair costs.  Owned
+    by Germans, bailed out by Americans.
+SHK:
+  name: SM_PRICE_SHK
+  company_name: Shark
+  company_code: SHK
+  summary: A shiny card that offers lifetime membership to the debt slavery club.
+SHR:
+  name: SM_PRICE_SHR
+  company_name: Shrewsbury
+  company_code: SHR
+  summary: Leading manufacturer of firearms since the 19th century, including the
+    rifle that either “won the West” or “slaughtered the indigenous population of
+    the West” depending on which state you go to school in.
+SPU:
+  name: SM_PRICE_SPU
+  company_name: Sprunk
+  company_code: SPU
+  summary: Manufacturer of carbonated water flavored with 800 calories worth of synthetic
+    additives and high-fructose corn syrup.
+SUB:
+  name: SM_PRICE_PKW
+  company_name: Suburban
+  company_code: SUB
+  summary: Smart-casual, shabby-chic, modern-vintage, mass-produced fashion. As unsure
+    of its identity as the androgynous 20-somethings who shop there.
+TNK:
+  name: SM_PRICE_TNK
+  company_name: Tinkle
+  company_code: TNK
+  summary: A North American mobile phone operator with awful North American mobile
+    phone coverage.
+UMA:
+  name: SM_PRICE_UMA
+  company_name: Ubermacht
+  company_code: UMA
+  summary: German manufacturer of luxury automobiles.  Precision-engineered status
+    symbols for rich people.
+VAP:
+  name: SM_PRICE_VAP
+  company_name: Vapid
+  company_code: VAP
+  summary: The automobile manufacturer that pioneered the great American business
+    model of low-quality mass production.
+VOM:
+  name: SM_PRICE_VOM
+  company_name: Vom Feuer
+  company_code: VOM
+  summary: A weapons manufacturer headquartered in Vienna and famous for its pistols,
+    Vom Feuer is an Austrian war icon the American people can get behind.
+WZL:
+  name: SM_PRICE_WZL
+  company_name: Weazel
+  company_code: WZL
+  summary: The mouthpiece through which simultaneous moral outrage and cultural hedonism
+    gets funneled into the living rooms of the American people.
+WIZ:
+  name: SM_PRICE_WIZ
+  company_name: Whiz
+  company_code: WIZ
+  summary: A cell phone operator that cornered the market on selling bad service to
+    people with bad credit.
+WIW:
+  name: SM_PRICE_WIW
+  company_name: WIWANG
+  company_code: WIW
+  summary: A South Korean electronics company whose entire business model is based
+    around creating substandard copies of Fruit’s products and releasing them to market
+    a few months later at half the price.
+ZIT:
+  name: SM_PRICE_ZIT
+  company_name: Zit
+  company_code: ZIT
+  summary: A commercial mobile phone based music identification service that also
+    helps the government spy on you.
+
