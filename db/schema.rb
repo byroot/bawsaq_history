@@ -24,7 +24,7 @@ ActiveRecord::Schema.define(version: 20130927185633) do
     t.string   "name"
     t.string   "company_name"
     t.string   "company_code"
-    t.string   "summary"
+    t.text     "summary"
     t.datetime "created_at"
     t.datetime "updated_at"
   end

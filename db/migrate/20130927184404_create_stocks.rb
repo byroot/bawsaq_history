@@ -4,7 +4,7 @@ class CreateStocks < ActiveRecord::Migration
       t.string :name
       t.string :company_name
       t.string :company_code
-      t.string :summary
+      t.text :summary
 
       t.timestamps
     end
