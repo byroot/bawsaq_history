@@ -3,12 +3,12 @@ class StocksController < ApplicationController
 
   def index
     @stocks = stocks.all
-    render json: @stocks.to_json(include: :price_points)
+    render json: @stocks
   end
 
   def show
     @stock = stocks.find_by_company_code!(params[:id])
-    render json: @stock.to_json(include: :price_points)
+    render json: @stock
   end
 
   private
