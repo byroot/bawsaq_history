@@ -19,13 +19,9 @@ class Stock < ActiveRecord::Base
       diff / previous.price * 100.0
     end
 
-    def relative
-      return 100 if price_point.price == stock_higher_price
-      return 0 if price_point.price == stock_lower_price
-
-      normalized_high = stock_higher_price - stock_lower_price
-      normalized_current = price_point.price - stock_lower_price
-      normalized_current / normalized_high * 100.0
+    def absolute_growth
+      diff = price - stock_lower_price
+      diff / stock_lower_price * 100.0
     end
 
     def as_json
@@ -33,7 +29,7 @@ class Stock < ActiveRecord::Base
         at: price_point.created_at,
         price: price,
         growth: growth,
-        relative: relative
+        absolute_growth: absolute_growth
       }
     end
 
@@ -47,8 +43,13 @@ class Stock < ActiveRecord::Base
     snapshots.map(&:as_json)
   end
 
-  def relative_price
-    Snapshot.new(price_points.last).relative
+  def absolute_growth
+    diff = higher_price - lower_price
+    diff / lower_price * 100.0
+  end
+
+  def max_growth
+    Snapshot.new(price_points.last).absolute_growth
   end
 
   def lower_price
