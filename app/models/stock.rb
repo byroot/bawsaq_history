@@ -47,6 +47,10 @@ class Stock < ActiveRecord::Base
     snapshots.map(&:as_json)
   end
 
+  def relative_price
+    Snapshot.new(price_points.last).relative
+  end
+
   def lower_price
     @lower_price ||= price_points.map(&:price).min
   end
